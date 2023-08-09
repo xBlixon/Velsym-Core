@@ -1,0 +1,14 @@
+{
+    "name": "velsym/core",
+    "description": "Velsym Framework Core.",
+    "type": "metapackage",
+    "require": {
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Xawier Slupik",
+            "email": "48760619+xBlixon@users.noreply.github.com"
+        }
+    ]
+}
