@@ -3,6 +3,7 @@
     "description": "Velsym Framework Core.",
     "type": "metapackage",
     "require": {
+        "velsym/dependency-injection": "dev-main"
     },
     "license": "MIT",
     "authors": [
